@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225600164600",
+    "project_id": "messagerie-c6ae3",
+    "storage_bucket": "messagerie-c6ae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225600164600:android:27097301620b76f576e10d",
+        "android_client_info": {
+          "package_name": "com.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk_OhHhu7cGweuZUT1F0inRq7j1oPCOlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
